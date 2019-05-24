@@ -1,0 +1,30 @@
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csprojAssemblyReference.cache
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.frmMeasurementConverter.resources
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.Properties.Resources.resources
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.GenerateResource.cache
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.CoreCompileInputs.cache
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe.config
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.pdb
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.exe
+C:\Users\lab10\Desktop\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.pdb
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csprojAssemblyReference.cache
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.frmMeasurementConverter.resources
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.Properties.Resources.resources
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.GenerateResource.cache
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.CoreCompileInputs.cache
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.exe
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.pdb
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe.config
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe
+C:\Users\jgreg\Dropbox\Curry - Spring 2019\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.pdb
+D:\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe.config
+D:\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.exe
+D:\Gregson.Capstone\Gregson.Capston\bin\Debug\Gregson.Capston.pdb
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csprojAssemblyReference.cache
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.frmMeasurementConverter.resources
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.Properties.Resources.resources
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.GenerateResource.cache
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.csproj.CoreCompileInputs.cache
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.exe
+D:\Gregson.Capstone\Gregson.Capston\obj\Debug\Gregson.Capston.pdb
